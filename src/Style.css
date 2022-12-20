@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 34%;
+  
+}
+  .Heading{
+  text-align: center;
+  }
+  .sub{
+   margin-left: 34%;
+    border: 1px solid #101010;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 350px;
+    padding-top: 6px;
+  }
+  .sub1{
+    text-align: center;
+  }
+  input{
+    background-color: rgb(240, 243, 246);
+    width: 387px;
+    height: 25px;
+    margin-top: 0.05px;
+    padding-top: 2px;
+    border-radius: 3.5px;
+    padding: 5px;
+  }
+  button{
+    margin-top: 9px;
+    background-image: linear-gradient(#008080d6,#008080, black);
+    width: 400px;
+    height: 25px;
+    color: white;
+    font-size: 12px;
+    border-radius: 3.5px;
+  }  
+  .images{
+    width: 120px;
+    height: 120px;
+    margin-left: 20px;
+  }
